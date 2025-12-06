@@ -47,10 +47,10 @@ The project was implemented and tested in a **GPU-enabled Kaggle Notebook enviro
 
 ## 🛠️ Tech Stack
 
-- Python 3.11  
-- Google Agent Development Kit (ADK)  
-- Gemini API  
-- Kaggle Notebooks (GPU)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) <br>
+![Google ADK](https://img.shields.io/badge/Google-ADK-orange?logo=google) <br>
+![Gemini API](https://img.shields.io/badge/Gemini-API-purple?logo=google) <br>
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebook%20GPU-20BEFF?logo=kaggle) <br>
 
 ---
 
