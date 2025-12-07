@@ -62,10 +62,10 @@ This project was completed as part of a 5-Day AI Intensive Program by Google, de
 
 ## 🔮 Possible Extensions
 
-Multi-agent collaboration <br>
-Memory-enabled agents <br>
-Task-specific agents (education, finance, support) <br>
-Deployment outside Kaggle <br>
+- Multi-agent collaboration <br>
+- Memory-enabled agents <br>
+- Task-specific agents (education, finance, support) <br>
+- Deployment outside Kaggle <br>
 
 ---
 
