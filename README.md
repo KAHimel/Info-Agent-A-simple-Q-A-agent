@@ -1,4 +1,4 @@
-# 🤖 Info Agent — Agent Development Kit (ADK) Project
+# 🤖 Info Agent - A simple Q&A agent.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Google ADK](https://img.shields.io/badge/Google-ADK-orange?logo=google)
